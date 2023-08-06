@@ -1,3 +1,5 @@
+![Virtual Machine](images/VM.png "Virtual Machine")
+
 # Virtual Machines
 
 In computing, a virtual machine (VM) is the virtualization or emulation of a computer system. Virtual machines are based on computer architectures and provide the functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination of the two.
